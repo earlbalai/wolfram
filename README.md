@@ -9,4 +9,4 @@ Send a SMS message to query the Wolfram|Alpha engine.
 # Build Instructions
 - Open your terminal and check out this repository
 - cd into the directory that you cloned this into
-- Execute "go run main.go" in your terminal to start it up
+- Execute "go run main.go -key "API_KEY"" in your terminal to start it up
